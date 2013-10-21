@@ -1,0 +1,6 @@
+[submodule "includes/querypath"]
+	path = includes/querypath
+	url = git@github.com:technosophos/querypath.git
+[submodule "includes/php-css-parser"]
+	path = includes/php-css-parser
+	url = git@github.com:sabberworm/PHP-CSS-Parser.git
